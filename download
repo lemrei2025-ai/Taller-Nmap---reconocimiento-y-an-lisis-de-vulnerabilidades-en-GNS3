@@ -1,0 +1,27 @@
+# Resultados de escaneos y capturas: no se versionan
+*.nmap
+*.gnmap
+*.pcap
+*.pcapng
+reporte*.txt
+reporte*.xml
+reporte*.html
+antes.xml
+despues.xml
+
+# Imágenes y proyectos de GNS3 / máquinas virtuales
+*.qcow2
+*.vmdk
+*.ova
+*.iso
+*.img
+*.gns3
+project-files/
+
+# Entregas de estudiantes
+*.pdf
+*.zip
+
+# Sistema
+.DS_Store
+Thumbs.db
